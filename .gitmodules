@@ -1,0 +1,3 @@
+[submodule "Tailscalez"]
+	path = Tailscalez
+	url = https://github.com/tailscale/github-action
