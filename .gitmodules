@@ -1,3 +1,6 @@
-[submodule "Tailscalez"]
-	path = Tailscalez
+[submodule "Tailscale"]
+	path = Tailscale
 	url = https://github.com/tailscale/github-action
+[submodule "upload-pages-artifact"]
+	path = upload-pages-artifact
+	url = https://github.com/actions/upload-pages-artifact
